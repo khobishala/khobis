@@ -1,0 +1,4 @@
+[
+  "https://www.google.com/search?q={}&num=200&dpr=1",
+  "https://www.google.com/search?q={}&num=200&dpr=2"
+]
